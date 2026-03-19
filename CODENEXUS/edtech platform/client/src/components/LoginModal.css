@@ -1,0 +1,2 @@
+/* LoginModal reuses SignUpModal.css styles - just import it */
+@import './SignUpModal.css';
